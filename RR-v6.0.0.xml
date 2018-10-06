@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
+        <gprimelte>
+            <Filename>rr-oreo-j32-20180922-NIGHTLY-gprimelte</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://download.msm8916.com/ResurrectionRemix/oreo/gprimelte/20180922/rr-oreo-j32-20180922-NIGHTLY-gprimelte.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://download.msm8916.com/ResurrectionRemix/oreo/gprimelte/20180922/changelog-rr-oreo-j32-20180922-NIGHTLY-gprimelte.txt</ChangelogUrl>
+        </gprimelte>
+        <gprimeltexx>
+            <Filename>rr-oreo-j32-20180922-NIGHTLY-gprimeltexx</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://download.msm8916.com/ResurrectionRemix/oreo/gprimeltexx/20180922/rr-oreo-j32-20180922-NIGHTLY-gprimeltexx.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://download.msm8916.com/ResurrectionRemix/oreo/gprimeltexx/20180922/changelog-rr-oreo-j32-20180922-NIGHTLY-gprimeltexx.txt</ChangelogUrl>
+        </gprimeltexx>
+        <gprimeltezt>
+            <Filename>rr-oreo-j32-20180922-NIGHTLY-gprimeltezt</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://download.msm8916.com/ResurrectionRemix/oreo/gprimeltezt/20180922/rr-oreo-j32-20180922-NIGHTLY-gprimeltezt.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://download.msm8916.com/ResurrectionRemix/oreo/gprimeltezt/20180922/changelog-rr-oreo-j32-20180922-NIGHTLY-gprimeltezt.txt</ChangelogUrl>
+        </gprimeltezt>
     </Stable>
 </SlimOTA>
